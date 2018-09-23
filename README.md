@@ -10,5 +10,5 @@ Database initialization, migration (sqlite3 in here)
 > flask db upgrade
 
 Finally, run:
-> python importer.py (development version, don't do this in production)
+> python main.py (development version, don't do this in production)
 ```
